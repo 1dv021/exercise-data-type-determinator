@@ -50,7 +50,7 @@ describe('Test the function tellType', function() {
   it('Should return a string \'You sent me a null value.\' ' +
     'when check is called with null.', function(done) {
     let result = determinator.tellType(null);
-    expect(result).eql('You sent me null.');
+    expect(result).eql('You sent me a null value.');
     done();
   });
 
