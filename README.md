@@ -1,9 +1,13 @@
 # Bestäm datatypen
 
 - A-nivå
-- [Gitbook](https://coursepress.gitbooks.io/1dv021/content/ovningsuppgifter/del1/bestam-datatypen/)
+- [Gitbook](https://coursepress.gitbook.io/1dv021/ovningsuppgifter/del-1/a-niva/bestam-datatypen)
+- [Lösningsförslag](https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/data-type-determinator)
 
-> __VIKTIGT!__ Innan du börjar arbeta med övningsuppgiften är det viktigt att du följer guiden [Att komma igång med en övningsuppgift](https://coursepress.gitbooks.io/1dv021/content/guider/att-komma-igang-med-en-ovningsuppgift/) för att lägga till övningsuppgiftens repo till ditt repo för övningsuppgifter.
+
+> __VIKTIGT!__ Innan du börjar arbeta med övningsuppgiften är det viktigt att du följer guiden [Att komma igång med en övningsuppgift](https://coursepress.gitbook.io/1dv021/guider/att-komma-igang-med-en-ovningsuppgift) för att lägga till övningsuppgiftens repo till ditt repo för övningsuppgifter.
+
+## Uppgift
 
 Hämta hem övningsuppgiftens repo och lägg till en .gitignore-fil. Komplettera koden så att funktionen `tellType` returnerar en sträng som beskriver vilken datatyp datat som skickats till funktionen är av. Du ska även komplettera `app.js` så att den använder funktionen `tellType` för att undersöka ett antal olika typer av data.
 
@@ -53,7 +57,3 @@ Funktioner, metoder, etc. som _kan_ komma till användning beroende hur du välj
 - [if...else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
 - [return](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
 - [console.log](https://nodejs.org/api/console.html#console_console_log_data)
-
-## Lösningsförslag
-
-- https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/data-type-determinator
